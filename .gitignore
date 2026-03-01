@@ -1,1 +1,30 @@
-node_modules
+# Maven and Java project exclusions
+
+# Compiled class file
+*.class
+
+# Maven target directory
+/target/
+
+# Log files
+*.log
+
+# Dependency directories
+/.mvn/
+/.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# IntelliJ project files
+.idea/
+*.iml
+
+# VS Code settings files
+.vscode/
